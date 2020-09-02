@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jon Reifschneider
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Director of Masters Studies, AI for Product Innovation
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Duke University
+  url: ai.meng.duke.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ""
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+Interests:
+- Teaching AI and Data Science
+- Employing AI to Improve Learning
+- Expanding Access to STEM Education
 
-education:
+Education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.S. in Analytics
+    institution: Georgia Tech
+    #year: 2012
+  - course: Global MBA
+    institution: European Business School
+    #year: 2009
+  - course: Master of Engineering Management
+    institution: Duke University
+    #year: 2008
+  - course: B.S. in Mechanical Engineering
+    institution: University of Virginia
+    #year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +48,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jonreifschneider/ 
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://twitter.com/jjreifschneider
+- icon: medium
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://medium.com/@jon.reifschneider
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +76,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jon Reifschneider is an Executive in Residence and the Director of Masters Studies in Artificial Intelligence for Product Innovation (AIPI) at Duke University’s Pratt School of Engineering, where he leads the AIPI on-campus and online graduate programs and teaches. Previously, Jon ran the Weather Analytics division at the tech company DTN, where he and his team created predictive analytics systems that are now core to the daily operations of most of the largest transportation, aviation and energy utility organizations across the US and globally. As a member of the DTN executive team, he led his division through a period of substantial expansion and completed the successful sale of the company in 2017. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jon holds a B.S. in Mechanical Engineering from the University of Virginia where he graduated first in his class, a Master of Engineering Management from Duke University, and a Global MBA from EBS (Germany). He has lived, worked and studied in the US, Luxembourg, Germany and India. 
