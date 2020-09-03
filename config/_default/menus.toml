@@ -9,24 +9,36 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+  name = "News"
+  url = "#recent"
+  weight = 15
 
 [[main]]
   name = "Projects"
   url = "#projects"
+  weight = 20
+
+[[main]]
+  name = "Courses"
+  url = "#courses"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
+  name = "Blog <i class='fas fa-external-link-alt' style='opacity:0.3'></i>"
+  url = "https://medium.com/@jon.reifschneider"
+  # url = "#blog"
+  weight = 50
+
+
+# [[main]]
+#   name = "Bio"
+#   url = "#bio"
+#   weight = 80
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

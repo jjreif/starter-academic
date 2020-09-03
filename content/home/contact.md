@@ -16,9 +16,8 @@ autolink = true
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
 email_form = 2
-
-# Netlify form settings.
-[netlify]
-  captcha = false  # Enable CAPTCHA challenge to reduce spam?
 +++
 
+Please reach out to me via email (form below) or on LinkedIn or Twitter.
+
+My office is on the 3rd floor of the [Fitzpatrick Center](https://pratt.duke.edu/about/campus/directions)
